@@ -16,7 +16,7 @@
 - **Icons**: Fontawesome
 
 # Weather App Demo
-**Live link**-http://127.0.0.1:5500/
+**Live link**-https://adityaraul.github.io/Weather-App/
 
 
 
