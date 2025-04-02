@@ -3,7 +3,7 @@
 
 # Features
 - **Live Weather Data: Get up-to-date weather information for your current location or search for any city worldwide.**
- -**Real-time weather updates**
+- **Real-time weather updates**
 - **Displays current humidity** 
 - **Shows wind speed**
 - **Hourly and daily forecasts**
@@ -15,6 +15,6 @@
 - **API**: OpenWeatherMap
 - **Icons**: Fontawesome
 
-# Weather App Demo
+
 
 
