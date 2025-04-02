@@ -15,6 +15,9 @@
 - **API**: OpenWeatherMap
 - **Icons**: Fontawesome
 
+# Weather App Demo
+http://127.0.0.1:5500/
+
 
 
 
